@@ -1,0 +1,20 @@
+## .NET build artifacts
+bin/
+obj/
+
+## User-specific / IDE
+*.user
+*.suo
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## Rider
+.idea/
+
+## OS junk
+.DS_Store
+Thumbs.db
