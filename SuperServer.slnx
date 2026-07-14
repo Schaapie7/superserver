@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Superserver.BotClient/Superserver.BotClient.csproj" />
+    <Project Path="src/Superserver.Server/Superserver.Server.csproj" />
+    <Project Path="src/Superserver.Shared/Superserver.Shared.csproj" />
+  </Folder>
+</Solution>
